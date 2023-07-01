@@ -2,4 +2,4 @@
 
 ## Days
 
-[Day 1 - Gradient](day\ 1)
+[Day 1 - Gradient](./day%201)
