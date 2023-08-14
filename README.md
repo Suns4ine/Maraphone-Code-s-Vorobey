@@ -2,4 +2,11 @@
 
 ## Days
 
-[Day 1 - Gradient](./day%201)
+[Gradient](./Gradient)
+
+![](https://github.com/Suns4ine/Maraphone-Code-s-Vorobey/blob/main/Gifs/Gradient.gif){:width="128"}
+#
+[Three Buttons](./Three%20Buttons)
+
+![](https://github.com/Suns4ine/Maraphone-Code-s-Vorobey/blob/main/Gifs/Three%20Buttons.gif){:width="128"}
+#
