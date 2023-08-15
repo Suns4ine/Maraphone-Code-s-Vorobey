@@ -16,3 +16,8 @@
 
 ![](https://github.com/Suns4ine/Maraphone-Code-s-Vorobey/blob/main/Gifs/Slider%20with%20Animation.gif)
 #
+
+[Table with random Cells](./Table%20with%20random%20Cells)
+
+![](https://github.com/Suns4ine/Maraphone-Code-s-Vorobey/blob/main/Gifs/Table%20with%20random%20Cells.gif)
+#
