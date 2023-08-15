@@ -21,3 +21,13 @@
 
 ![](https://github.com/Suns4ine/Maraphone-Code-s-Vorobey/blob/main/Gifs/Table%20with%20random%20Cells.gif)
 #
+
+[Compact Controller](./Compact%20Controller)
+
+![](https://github.com/Suns4ine/Maraphone-Code-s-Vorobey/blob/main/Gifs/Compact%20Controller.gif)
+#
+
+[Spring Square](./Spring%20Square)
+
+![](https://github.com/Suns4ine/Maraphone-Code-s-Vorobey/blob/main/Gifs/Spring%20Square.gif)
+#
